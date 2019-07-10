@@ -27,7 +27,7 @@
 
 ### Search codebases
 
-* HTTP & JSON API for performing searches: https://github.com/kbase/search_api_delux://github.com/kbase/search_api_deluxe 
+* HTTP & JSON API for performing searches: https://github.com/kbase/search_api_deluxe
 * Index creation and syncing from the workspace via Kafka: https://github.com/kbase/index_runner_deluxe
 * Global search configuration: https://github.com/kbase/search_config
 
