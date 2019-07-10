@@ -19,17 +19,17 @@
 
 ### Relation Engine codebases
 
-* HTTP & JSON API: https://github.com/kbase/relation_engine_api
-* Schemas and specifications for the API: https://github.com/kbase/relation_engine_spec
-* Data import scripts: https://github.com/kbase/relation_engine_importers
-* Workspace importer/loader/sync (via Kafka): https://github.com/kbaseapps/relation_engine_sync
-* Biochemistry reaction data: https://github.com/kbaseapps/BiochemistryAPI (edited) 
+* HTTP & JSON API: [https://github.com/kbase/relation_engine_api](https://github.com/kbase/relation_engine_api)
+* Schemas and specifications for the API: [https://github.com/kbase/relation_engine_spec](https://github.com/kbase/relation_engine_spec)
+* Data import scripts: [https://github.com/kbase/relation_engine_importers](https://github.com/kbase/relation_engine_importers)
+* Workspace importer/loader/sync (via Kafka): [https://github.com/kbaseapps/relation_engine_sync](https://github.com/kbaseapps/relation_engine_sync)
+* Biochemistry reaction data: [https://github.com/kbaseapps/BiochemistryAPI](https://github.com/kbaseapps/BiochemistryAPI)
 
 ### Search codebases
 
-* HTTP & JSON API for performing searches: https://github.com/kbase/search_api_deluxe
-* Index creation and syncing from the workspace via Kafka: https://github.com/kbase/index_runner_deluxe
-* Global search configuration: https://github.com/kbase/search_config
+* HTTP & JSON API for performing searches: [https://github.com/kbase/search_api_deluxe](https://github.com/kbase/search_api_deluxe)
+* Index creation and syncing from the workspace via Kafka: [https://github.com/kbase/index_runner_deluxe](https://github.com/kbase/index_runner_deluxe)
+* Global search configuration: [https://github.com/kbase/search_config](https://github.com/kbase/search_config)
 
 ## User help
 
