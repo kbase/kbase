@@ -17,6 +17,20 @@
 * Service Wizard: [KIDL spec](https://github.com/kbase/service_wizard/blob/master/ServiceWizard.spec)
 * Catalog: [KIDL spec](https://github.com/kbase/catalog/blob/master/catalog.spec)
 
+### Relation Engine codebases
+
+* HTTP & JSON API: https://github.com/kbase/relation_engine_api
+* Schemas and specifications for the API: https://github.com/kbase/relation_engine_spec
+* Data import scripts: https://github.com/kbase/relation_engine_importers
+* Workspace importer/loader/sync (via Kafka): https://github.com/kbaseapps/relation_engine_sync
+* Biochemistry reaction data: https://github.com/kbaseapps/BiochemistryAPI (edited) 
+
+### Search codebases
+
+* HTTP & JSON API for performing searches: https://github.com/kbase/search_api_delux://github.com/kbase/search_api_deluxe 
+* Index creation and syncing from the workspace via Kafka: https://github.com/kbase/index_runner_deluxe
+* Global search configuration: https://github.com/kbase/search_config
+
 ## User help
 
 * [Using KBase](http://kbase.us/new-to-kbase/)
